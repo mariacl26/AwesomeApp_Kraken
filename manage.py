@@ -16,7 +16,6 @@ def main():
             "forget to activate a virtual environment?"
         ) from exc
     execute_from_command_line(sys.argv)
-
-
+#CORRIGIENDO ERROR CRITICO PREGUNTA 8
 if __name__ == '__main__':
     main()
